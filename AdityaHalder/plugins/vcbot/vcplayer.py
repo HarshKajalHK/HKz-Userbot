@@ -1,4 +1,4 @@
-# Powered By // @AdityaHalder //
+# Powered By // @TheHKzNetwork //
 
 __NAME__ = "VcPlayer"
 __MENU__ = """
