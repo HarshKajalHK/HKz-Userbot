@@ -1,4 +1,4 @@
-# Powered By // @AdityaHalder //
+# Powered By // @TheHKNetwork//
 
 __NAME__ = "VcBot"
 __MENU__ = """
