@@ -57,12 +57,12 @@ async def help_button(client, query):
     back_match = re.match(r"help_back", query.data)
     top_text = f"""
 **🥀 Welcome To Help Menu Of
-Genius Userbot » {__version__} ✨...
+HKz Userbot » {__version__} ✨...
 
 Click On Below 🌺 Buttons To
 Get Userbot Commands.
 
-🌷Powered By : [Aditya Server](https://t.me/AdityaServer).**
+🌷Powered By : [The HKz Network](https://t.me/TheHKNetwork).**
 """
     
     if plug_match:
