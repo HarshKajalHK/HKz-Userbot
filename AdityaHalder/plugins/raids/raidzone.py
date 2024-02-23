@@ -1,4 +1,4 @@
-# Powered By // @AdityaHalder //
+# Powered By // @TheHKNetwork //
 
 __NAME__ = "Raids"
 __MENU__ = """
