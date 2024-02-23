@@ -1,14 +1,14 @@
 {
-    "name": "Genius-Userbot",
-    "description": "Genius-Userbot is an advanced & powerful multi-featured Telegram userbot.",
-    "logo": "https://graph.org/file/292b9dfe74532e7174fd2.png",
+    "name": "HKz-Userbot",
+    "description": "HKz-Userbot is an advanced & powerful multi-featured Telegram userbot.",
+    "logo": "https://telegra.ph/file/56ed0d678660191e6030c.jpg",
     "keywords": [
-        "genius-userbot",
+        "HKz-userbot",
         "telegram-userbot",
         "telegram-music-bot",
         "telegram-video-bot"
     ],
-    "repository": "https://github.com/AdityaHalder/Genius-Userbot",
+    "repository": "https://github.com/HarshKajalHK/HKz-Userbot",
     "stack": "container",
     "env": {
         "API_ID": {
