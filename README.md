@@ -22,13 +22,13 @@ HKz-Userbot is an advanced & powerful multi-featured Telegram userbot.
 <p title="Contributing">As Genius-Userbot is an open-source project, all kinds of contributions are respectfully welcomed, and I also extend my sincere thanks to all contributors.</p>
 
 <h2>🌐 Updates & Support</h2>
-<p title="Support">You can join Genius-Userbot's official Telegram channel and group on Telegram for any Genius-Userbot updates and support-related issues.</p>
+<p title="Support">You can join HKz-Userbot's official Telegram channel and group on Telegram for any HKz-Userbot updates and support-related issues.</p>
 
 - Telegram Channel: [**`@TheHKNetwork`**](https://t.me/TheHKNetwork)
 
 - Telegram Group:   [**`@KaisenWorld`**](https://t.me/KaisenWorld)
 > [!WARNING]  
-> Verify the username of Genius-Userbot's official Telegram channel and group. If you face a problem with a fake channel or group, Genius-Userbot will not take responsibility for it, so I request that you verify Genius-Userbot's official Telegram channel and group.
+> Verify the username of HKz-Userbot's official Telegram channel and group. If you face a problem with a fake channel or group, HKz-Userbot will not take responsibility for it, so I request that you verify HKz-Userbot's official Telegram channel and group.
 
 
 <h2>📑 Acknowledgement / Credits</h2>
