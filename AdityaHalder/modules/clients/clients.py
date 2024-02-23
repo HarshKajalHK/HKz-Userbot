@@ -52,21 +52,21 @@ async_dirs()
     
 
 app = Client(
-    name = "AdityaHalder",
+    name = "HKzHalder",
     api_id = API_ID,
     api_hash = API_HASH,
     session_string = STRING_SESSION,
 )
 
 ass = Client(
-    name = "AdityaPlayer",
+    name = "DivyaPlayer",
     api_id = API_ID,
     api_hash = API_HASH,
     session_string = SESSION_STRING,
 )
 
 bot = Client(
-    name = "AdityaServer",
+    name = "HKzServer",
     api_id = API_ID,
     api_hash = API_HASH,
     bot_token = BOT_TOKEN,
@@ -85,7 +85,7 @@ def mongodbase():
         LOGGER.info("Connecting To Your Database ...")
         async_client = AsyncIOMotorClient
         mongobase = async_client(MONGO_DB_URL)
-        mongodb = mongobase.AdityaHalder
+        mongodb = mongobase.HKzHalder
         LOGGER.info("Conected To Your Database.")
     except:
         LOGGER.error("Failed To Connect, Please Change Your Mongo Database !")
@@ -105,16 +105,16 @@ async def sudo_users():
     
 
 async def run_async_clients():
-    LOGGER.info("Starting Userbot ...")
+    LOGGER.info("Starting HKz Userbot ...")
     await app.start()
-    LOGGER.info("Userbot Started.")
+    LOGGER.info("HKz Userbot Started.")
     try:
-        await app.send_message(LOG_GROUP_ID, "**Userbot Started.**")
+        await app.send_message(LOG_GROUP_ID, "**HKz Userbot Started.**")
     except:
         pass
     try:
-        await app.join_chat("AdityaServer")
-        await app.join_chat("AdityaDiscus")
+        await app.join_chat("HKzServer")
+        await app.join_chat("HKzDiscus")
     except:
         pass
     if SESSION_STRING:
@@ -126,8 +126,8 @@ async def run_async_clients():
         except:
             pass
         try:
-            await app.join_chat("AdityaServer")
-            await app.join_chat("AdityaDiscus")
+            await app.join_chat("HKzServer")
+            await app.join_chat("HKzDiscus")
         except:
             pass
     LOGGER.info("Starting Helper Robot ...")
