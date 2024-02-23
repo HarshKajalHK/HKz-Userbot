@@ -66,7 +66,7 @@ ass = Client(
 )
 
 bot = Client(
-    name = "HKzServer",
+    name = "TheHKNetwork",
     api_id = API_ID,
     api_hash = API_HASH,
     bot_token = BOT_TOKEN,
@@ -113,8 +113,8 @@ async def run_async_clients():
     except:
         pass
     try:
-        await app.join_chat("HKzServer")
-        await app.join_chat("HKzDiscus")
+        await app.join_chat("TheHKNetwork")
+        await app.join_chat("KaisenWorld")
     except:
         pass
     if SESSION_STRING:
